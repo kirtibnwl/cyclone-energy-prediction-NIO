@@ -213,7 +213,7 @@ If you use this code or data, please cite the paper:
 ## Author
 
 **Kirti Beniwal** — Department of Applied Mathematics, Delhi Technological University.
-Research interests: applied ML for climate, meteorology, and disaster preparedness.
+Research interests: applied ML for climate, meteorology, and disaster preparedness.(kirtibnwl1912@gmail.com)
 
 Co-author: **Dr. Vivek Kumar** (corresponding author, `vivekkumar.ag@gmail.com`).
 
